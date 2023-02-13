@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact center.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact_center.main_frm.resources
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact_center.Properties.Resources.resources
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact center.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact center.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\contact center.exe.config
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\contact center.exe
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\contact center.pdb
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact center.exe
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact center.pdb
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact_center.loginfrm.resources
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact_center.contactform.resources
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\contact center\contact center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\contact center\contact center\obj\Debug\contact center.csproj.CopyComplete
